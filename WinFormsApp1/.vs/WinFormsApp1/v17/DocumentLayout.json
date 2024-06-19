@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Valyr\\source\\repos\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB65604-4CE2-42B7-9287-654D4F5A7ECA}|WinFormsApp1.vbproj|c:\\users\\valyr\\source\\repos\\winformsapp1\\frmviewsubmissions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DEB65604-4CE2-42B7-9287-654D4F5A7ECA}|WinFormsApp1.vbproj|solutionrelative:frmviewsubmissions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB65604-4CE2-42B7-9287-654D4F5A7ECA}|WinFormsApp1.vbproj|c:\\users\\valyr\\source\\repos\\winformsapp1\\frmviewsubmissions.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DEB65604-4CE2-42B7-9287-654D4F5A7ECA}|WinFormsApp1.vbproj|solutionrelative:frmviewsubmissions.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB65604-4CE2-42B7-9287-654D4F5A7ECA}|WinFormsApp1.vbproj|c:\\users\\valyr\\source\\repos\\winformsapp1\\frmcreatesubmission.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DEB65604-4CE2-42B7-9287-654D4F5A7ECA}|WinFormsApp1.vbproj|solutionrelative:frmcreatesubmission.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB65604-4CE2-42B7-9287-654D4F5A7ECA}|WinFormsApp1.vbproj|c:\\users\\valyr\\source\\repos\\winformsapp1\\frmcreatesubmission.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DEB65604-4CE2-42B7-9287-654D4F5A7ECA}|WinFormsApp1.vbproj|solutionrelative:frmcreatesubmission.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB65604-4CE2-42B7-9287-654D4F5A7ECA}|WinFormsApp1.vbproj|c:\\users\\valyr\\source\\repos\\winformsapp1\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DEB65604-4CE2-42B7-9287-654D4F5A7ECA}|WinFormsApp1.vbproj|solutionrelative:form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB65604-4CE2-42B7-9287-654D4F5A7ECA}|WinFormsApp1.vbproj|c:\\users\\valyr\\source\\repos\\winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DEB65604-4CE2-42B7-9287-654D4F5A7ECA}|WinFormsApp1.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmCreateSubmission.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Valyr\\source\\repos\\WinFormsApp1\\frmCreateSubmission.Designer.vb",
+              "RelativeDocumentMoniker": "frmCreateSubmission.Designer.vb",
+              "ToolTip": "C:\\Users\\Valyr\\source\\repos\\WinFormsApp1\\frmCreateSubmission.Designer.vb",
+              "RelativeToolTip": "frmCreateSubmission.Designer.vb",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwDIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T13:11:56.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmViewSubmissions.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Valyr\\source\\repos\\WinFormsApp1\\frmViewSubmissions.Designer.vb",
+              "RelativeDocumentMoniker": "frmViewSubmissions.Designer.vb",
+              "ToolTip": "C:\\Users\\Valyr\\source\\repos\\WinFormsApp1\\frmViewSubmissions.Designer.vb",
+              "RelativeToolTip": "frmViewSubmissions.Designer.vb",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAiwM0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T13:17:56.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Valyr\\source\\repos\\WinFormsApp1\\form1.Designer.vb",
+              "RelativeDocumentMoniker": "form1.Designer.vb",
+              "ToolTip": "C:\\Users\\Valyr\\source\\repos\\WinFormsApp1\\form1.Designer.vb",
+              "RelativeToolTip": "form1.Designer.vb",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T13:15:58.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "form1.vb",
+              "DocumentMoniker": "C:\\Users\\Valyr\\source\\repos\\WinFormsApp1\\form1.vb",
+              "RelativeDocumentMoniker": "form1.vb",
+              "ToolTip": "C:\\Users\\Valyr\\source\\repos\\WinFormsApp1\\form1.vb",
+              "RelativeToolTip": "form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T13:04:11.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCreateSubmission.vb",
+              "DocumentMoniker": "C:\\Users\\Valyr\\source\\repos\\WinFormsApp1\\frmCreateSubmission.vb",
+              "RelativeDocumentMoniker": "frmCreateSubmission.vb",
+              "ToolTip": "C:\\Users\\Valyr\\source\\repos\\WinFormsApp1\\frmCreateSubmission.vb",
+              "RelativeToolTip": "frmCreateSubmission.vb",
+              "ViewState": "AQIAABQAAAAAAAAAAAA3wDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T13:02:42.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmViewSubmissions.vb",
+              "DocumentMoniker": "C:\\Users\\Valyr\\source\\repos\\WinFormsApp1\\frmViewSubmissions.vb",
+              "RelativeDocumentMoniker": "frmViewSubmissions.vb",
+              "ToolTip": "C:\\Users\\Valyr\\source\\repos\\WinFormsApp1\\frmViewSubmissions.vb",
+              "RelativeToolTip": "frmViewSubmissions.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T13:11:27.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
